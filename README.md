@@ -2,6 +2,10 @@
 
 A modern landing page built with Next.js and TypeScript for a product or brand called **Vectr**.
 
+## Demo
+
+▶️ [Watch Demo](https://drive.google.com/file/d/1KIKFM4dhIQGfc1pSgdXWUdnsDkIs1jw_/view?usp=sharing)
+
 ## Overview
 
 Vectr is a clean, responsive marketing site that showcases product benefits, process steps, standards, FAQs, and calls to action. The project uses the Next.js App Router and a component-driven structure to keep the landing page modular and easy to maintain.
